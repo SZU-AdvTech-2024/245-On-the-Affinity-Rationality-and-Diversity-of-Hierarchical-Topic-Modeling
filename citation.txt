@@ -1,0 +1,7 @@
+@inproceedings{REPO245,
+    author = "Wu, Xiaobao and Pan, Fengjun and Nguyen, Thong and Feng, Yichao and Liu, Chaoqun and Nguyen, Cong-Duy and Luu, Anh Tuan",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    title = "{On the Affinity, Rationality, and Diversity of Hierarchical Topic Modeling}",
+    url = "https://arxiv.org/pdf/2401.14113.pdf",
+    year = "2024"
+}
